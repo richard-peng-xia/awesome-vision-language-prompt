@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-vision-language-prompt?color=green) 
-![](https://img.shields.io/badge/PaperNumber-59-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-64-brightgreen)
 
 # awesome-vision-language-prompt
 A collection of resources on applications of prompt learning in vision-language models.
@@ -36,7 +36,7 @@ A collection of resources on applications of prompt learning in vision-language 
 - [**ICLR 2023**] LPT: Long-tailed Prompt Tuning for Image Classification [[pdf]](https://arxiv.org/pdf/2210.01033)
 - [**arXiv 2022**] Prompt Learning with Optimal Transport for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.01253)
 - [**arXiv 2022**] Variational prompt tuning improves generalization of vision-language models [[pdf]](https://arxiv.org/pdf/2210.02390)
-- [**arXiv 2022**] MaPLe: Multi-modal Prompt Learning [[pdf]](https://arxiv.org/pdf/2210.03117) [[code]](https://github.com/muzairkhattak/multimodal-prompt-learning)
+- [**CVPR 2023**] MaPLe: Multi-modal Prompt Learning [[pdf]](https://arxiv.org/pdf/2210.03117) [[code]](https://github.com/muzairkhattak/multimodal-prompt-learning)
 - [**arXiv 2022**] Learning to Decompose Visual Features with Latent Textual Prompts [[pdf]](https://arxiv.org/pdf/2210.04287)
 - [**arXiv 2022**] Visual Prompting for Adversarial Robustness [[pdf]](https://arxiv.org/pdf/2210.06284) 
 - [**arXiv 2022**] Unified Vision and Language Prompt Learning [[pdf]](https://arxiv.org/pdf/2210.07225) [[code]](https://github.com/yuhangzang/upt)
@@ -53,7 +53,7 @@ A collection of resources on applications of prompt learning in vision-language 
 - [**arXiv 2022**] See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning [[pdf]](https://arxiv.org/pdf/2301.05226.pdf)
 - [**arXiv 2022**] From Images to Textual Prompts: Zero-shot VQA with Frozen Large Language Models [[pdf]](https://arxiv.org/pdf/2212.10846.pdf)
 - [**CVPR 2023**] Position-guided Text Prompt for Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2212.09737.pdf) [[code]](https://github.com/sail-sg/ptp)
-- [**arXiv 2022**] Doubly Right Object Recognition: A Why Prompt for Visual Rationales [[pdf]](https://arxiv.org/pdf/2212.06202.pdf) 
+- [**CVPR 2023**] Doubly Right Object Recognition: A Why Prompt for Visual Rationales [[pdf]](https://arxiv.org/pdf/2212.06202.pdf) 
 - [**arXiv 2022**] PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[pdf]](https://arxiv.org/pdf/2212.05590.pdf)
 - [**arXiv 2022**] Unified vision and language prompt learning [[pdf]](https://arxiv.org/pdf/2210.07225.pdf) [[code]](https://github.com/yuhangzang/UPT)
 - [**arXiv 2022**] Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914)
@@ -67,3 +67,8 @@ A collection of resources on applications of prompt learning in vision-language 
 - [**CVPR 2023**] Multimodal Prompting with Missing Modalities for Visual Recognition [[pdf]](https://arxiv.org/pdf/2303.03369) [[code]](https://github.com/YiLunLee/Missing_aware_prompts)
 - [**CVPR 2023**] Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering [[pdf]](https://arxiv.org/pdf/2303.01903) [[code]](https://github.com/MILVLG/prophet)
 - [**CVPR 2023**] Turning a CLIP Model into a Scene Text Detector [[pdf]](https://arxiv.org/pdf/2302.14338) [[code]](https://github.com/wenwenyu/TCM)
+- [**CVPR 2023**] Visual Prompt Multi-Modal Tracking [[pdf]](https://arxiv.org/pdf/2303.10826.pdf) [[code]](https://github.com/jiawen-zhu/ViPT)
+- [**CVPR 2023**] Texts as Images in Prompt Tuning for Multi-Label Image Recognition [[pdf]](https://arxiv.org/pdf/2211.12739) [[code]](https://github.com/guozix/TaI-DPT)
+- [**CVPR 2023**] PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[pdf]](https://arxiv.org/pdf/2212.05590.pdf) [[code]](https://github.com/sheng-eatamath/PromptCAL)
+- [**CVPR 2023**] LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models [[pdf]](https://arxiv.org/pdf/2210.01115.pdf) [[code]](https://www.adrianbulat.com/lasp)
+- [**CVPR 2023**] Visual-Language Prompt Tuning with Knowledge-guided Context Optimization [[pdf]](https://arxiv.org/pdf/2303.13283.pdf) [[code]](https://github.com/htyao89/KgCoOp)

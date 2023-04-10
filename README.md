@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-vision-language-prompt?color=green) 
-![](https://img.shields.io/badge/PaperNumber-64-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-62-brightgreen)
 
 # awesome-vision-language-prompt
 A collection of resources on applications of prompt learning in vision-language models.
@@ -48,13 +48,11 @@ A collection of resources on applications of prompt learning in vision-language 
 - [**arXiv 2022**] PromptCap: Prompt-Guided Task-Aware Image Captioning [[pdf]](https://arxiv.org/pdf/2211.09699)
 - [**arXiv 2022**] Prompt Tuning for Parameter-efficient Medical Image Segmentation [[pdf]](https://arxiv.org/pdf/2211.09233) [[code]](https://github.com/marcdcfischer/PUNet)
 - [**arXiv 2022**] Task Residual for Tuning Vision-Language Models [[pdf]](https://arxiv.org/pdf/2211.10277.pdf) [[code]](https://github.com/geekyutao/TaskRes)
-- [**arXiv 2022**] Texts as Images in Prompt Tuning for Multi-Label Image Recognition [[pdf]](https://arxiv.org/pdf/2211.12739.pdf) [[code]](https://github.com/guozix/TaI-DPT)
 - [**AAAI 2023**] Controllable Image Captioning via Prompting [[pdf]](https://arxiv.org/pdf/2212.01803.pdf) 
 - [**arXiv 2022**] See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning [[pdf]](https://arxiv.org/pdf/2301.05226.pdf)
 - [**arXiv 2022**] From Images to Textual Prompts: Zero-shot VQA with Frozen Large Language Models [[pdf]](https://arxiv.org/pdf/2212.10846.pdf)
 - [**CVPR 2023**] Position-guided Text Prompt for Vision-Language Pre-training [[pdf]](https://arxiv.org/pdf/2212.09737.pdf) [[code]](https://github.com/sail-sg/ptp)
-- [**CVPR 2023**] Doubly Right Object Recognition: A Why Prompt for Visual Rationales [[pdf]](https://arxiv.org/pdf/2212.06202.pdf) 
-- [**arXiv 2022**] PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[pdf]](https://arxiv.org/pdf/2212.05590.pdf)
+- [**CVPR 2023**] Doubly Right Object Recognition: A Why Prompt for Visual Rationales [[pdf]](https://arxiv.org/pdf/2212.06202.pdf)
 - [**arXiv 2022**] Unified vision and language prompt learning [[pdf]](https://arxiv.org/pdf/2210.07225.pdf) [[code]](https://github.com/yuhangzang/UPT)
 - [**arXiv 2022**] Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914)
 - [**AAAI 2023**] Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation [[pdf]](https://arxiv.org/pdf/2212.04145.pdf)

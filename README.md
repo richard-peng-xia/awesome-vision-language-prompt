@@ -70,3 +70,7 @@ A collection of resources on applications of prompt learning in vision-language 
 - [**CVPR 2023**] PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery [[pdf]](https://arxiv.org/pdf/2212.05590.pdf) [[code]](https://github.com/sheng-eatamath/PromptCAL)
 - [**CVPR 2023**] LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models [[pdf]](https://arxiv.org/pdf/2210.01115.pdf) [[code]](https://www.adrianbulat.com/lasp)
 - [**CVPR 2023**] Visual-Language Prompt Tuning with Knowledge-guided Context Optimization [[pdf]](https://arxiv.org/pdf/2303.13283.pdf) [[code]](https://github.com/htyao89/KgCoOp)
+- [**arXiv 2023**] What does CLIP know about a red circle? Visual prompt engineering for VLMs [[pdf]](https://arxiv.org/pdf/2304.06712)
+- [**CVPR 2023**] Learning Instance-Level Representation for Large-Scale Multi-Modal Pretraining in E-commerce [[pdf]](https://arxiv.org/pdf/2304.02853)
+- [**arXiv 2023**] SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger [[pdf]](https://arxiv.org/pdf/2303.17561.pdf)
+- [**CVPR 2023**] Correlational Image Modeling for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2303.12670.pdf) [[code]](https://github.com/weivision/Correlational-Image-Modeling)

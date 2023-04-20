@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-vision-language-prompt?color=green) 
-![](https://img.shields.io/badge/PaperNumber-67-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-69-brightgreen)
 
 # awesome-vision-language-prompt
 A collection of resources on applications of prompt learning in vision-language models.
@@ -31,7 +31,7 @@ A collection of resources on applications of prompt learning in vision-language 
 - [**IJCAI 2022**] Declaration-based Prompt Tuning for Visual Question Answering [[pdf]](https://arxiv.org/pdf/2205.02456) [[code]](https://github.com/CCIIPLab/DPT)
 - [**MICCAI 2022**] Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training [[pdf]](https://arxiv.org/pdf/2209.07098.pdf) [[code]](https://github.com/zhjohnchan/M3AE)
 - [**NeurIPS 2022**] GLIPv2: Unifying Localization and VL Understanding [[pdf]](https://arxiv.org/pdf/2206.05836.pdf) [[code]](https://github.com/microsoft/GLIP)
-- [**arXiv 2022**] Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study [[pdf]](https://arxiv.org/pdf/2209.15517)
+- [**ICLR 2023**] Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study [[pdf]](https://arxiv.org/pdf/2209.15517)
 - [**arXiv 2022**] Language-Aware Soft Prompting for Vision & Language Foundation Models [[pdf]](https://arxiv.org/pdf/2210.01115)
 - [**ICLR 2023**] LPT: Long-tailed Prompt Tuning for Image Classification [[pdf]](https://arxiv.org/pdf/2210.01033)
 - [**arXiv 2022**] Prompt Learning with Optimal Transport for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.01253)
@@ -75,3 +75,5 @@ A collection of resources on applications of prompt learning in vision-language 
 - [**arXiv 2023**] SoftCLIP: Softer Cross-modal Alignment Makes CLIP Stronger [[pdf]](https://arxiv.org/pdf/2303.17561.pdf)
 - [**CVPR 2023**] Correlational Image Modeling for Self-Supervised Visual Pre-Training [[pdf]](https://arxiv.org/pdf/2303.12670.pdf) [[code]](https://github.com/weivision/Correlational-Image-Modeling)
 - [**arXiv 2023**] Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition [[pdf]](https://arxiv.org/pdf/2304.04704) [[code]](https://github.com/amazon-science/prompt-pretraining)
+- [**arXiv 2023**] Towards Robust Prompts on Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.08479.pdf)
+- [**arXiv 2023**] Chain of Thought Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.07919.pdf)

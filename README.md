@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-vision-language-prompt?color=green) 
-![](https://img.shields.io/badge/PaperNumber-69-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-70-brightgreen)
 
 # awesome-vision-language-prompt
 A collection of resources on applications of prompt learning in vision-language models.
@@ -77,3 +77,4 @@ A collection of resources on applications of prompt learning in vision-language 
 - [**arXiv 2023**] Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition [[pdf]](https://arxiv.org/pdf/2304.04704) [[code]](https://github.com/amazon-science/prompt-pretraining)
 - [**arXiv 2023**] Towards Robust Prompts on Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.08479.pdf)
 - [**arXiv 2023**] Chain of Thought Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.07919.pdf)
+- [**arXiv 2023**] LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition [[pdf]](https://arxiv.org/pdf/2305.04536) [[code]](https://github.com/richard-peng-xia/LMPT)

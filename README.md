@@ -2,10 +2,17 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-vision-language-prompt?color=green) 
-![](https://img.shields.io/badge/PaperNumber-71-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-83-brightgreen)
 
 # awesome-vision-language-prompt
 A collection of resources on applications of prompt learning in vision-language models.
+
+## Contributing
+Please feel free to send me [pull requests](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging/pulls) or email (richard.peng.xia@gmail.com) to add links or to discuss with me about this area.
+Markdown format:
+```markdown
+- [**Name of Conference or Journal + Year**] Paper Name. [[pdf]](link) [[code]](link)
+```
 
 ## Vision-Language Prompt ![](https://img.shields.io/badge/Vision_Language_Prompt-green)
 - [**arXiv 2022**] Towards Visual-Prompt Temporal Answering Grounding in Medical Instructional Video [[pdf]](https://arxiv.org/pdf/2203.06667)
@@ -79,4 +86,15 @@ A collection of resources on applications of prompt learning in vision-language 
 - [**arXiv 2023**] Chain of Thought Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2304.07919.pdf)
 - [**arXiv 2023**] LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-tailed Multi-Label Visual Recognition [[pdf]](https://arxiv.org/pdf/2305.04536) [[code]](https://github.com/richard-peng-xia/LMPT)
 - [**arXiv 2023**] Improved baselines for vision-language pre-training [[pdf]](https://arxiv.org/ftp/arxiv/papers/2305/2305.08675.pdf)
-- 
+- [**CVPR 2023**] Open-set Fine-grained Retrieval via Prompting Vision-Language Evaluator [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Open-Set_Fine-Grained_Retrieval_via_Prompting_Vision-Language_Evaluator_CVPR_2023_paper.pdf)
+- [**CVPR 2023**] Semantic Prompt for Few-Shot Image Recognition [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Semantic_Prompt_for_Few-Shot_Image_Recognition_CVPR_2023_paper.pdf)
+- [**CVPR 2023**] Visual Prompt Tuning for Generative Transfer Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Sohn_Visual_Prompt_Tuning_for_Generative_Transfer_Learning_CVPR_2023_paper.pdf) [[code]](https://github.com/google-research/generative_)
+- [**CVPR 2023**] CORA: Adapting CLIP for Open-Vocabulary Detection With Region Prompting and Anchor Pre-Matching [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_CORA_Adapting_CLIP_for_Open-Vocabulary_Detection_With_Region_Prompting_and_CVPR_2023_paper.pdf) [[code]](https://github.com/tgxs002/CORA)
+- [**CVPR 2023**] Efficient Multimodal Fusion via Interactive Prompting [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Efficient_Multimodal_Fusion_via_Interactive_Prompting_CVPR_2023_paper.pdf)
+- [**CVPR 2023**] CODA-Prompt: COntinual Decomposed Attention-Based Prompting for Rehearsal-Free Continual Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Smith_CODA-Prompt_COntinual_Decomposed_Attention-Based_Prompting_for_Rehearsal-Free_Continual_Learning_CVPR_2023_paper.pdf) [[code]](https://github.com/GT-RIPL/CODA-Prompt)
+- [**CVPR 2023**] Hierarchical Prompt Learning for Multi-Task Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.pdf)
+- [**CVPR 2023**] Visual Prompt Multi-Modal Tracking [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.pdf) [[code]](https://github.com/jiawen-zhu/ViPT)
+- [**CVPR 2023**] ProD: Prompting-To-Disentangle Domain Knowledge for Cross-Domain Few-Shot Image Classification [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_ProD_Prompting-To-Disentangle_Domain_Knowledge_for_Cross-Domain_Few-Shot_Image_Classification_CVPR_2023_paper.pdf)
+- [**CVPR 2023**] LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Bulat_LASP_Text-to-Text_Optimization_for_Language-Aware_Soft_Prompting_of_Vision__CVPR_2023_paper.pdf)
+- [**CVPR 2023**] Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf) [[code]](https://github.com/Forest-art/DFSP)
+- [**CVPR 2023**] Learning Federated Visual Prompt in Null Space for MRI Reconstruction [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Learning_Federated_Visual_Prompt_in_Null_Space_for_MRI_Reconstruction_CVPR_2023_paper.pdf) [[code]](https://github.com/chunmeifeng/FedPR)

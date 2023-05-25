@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/Richard88888/awesome-vision-language-prompt?color=green) 
-![](https://img.shields.io/badge/PaperNumber-83-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-85-brightgreen)
 
 # awesome-vision-language-prompt
 A collection of resources on applications of prompt learning in vision-language models.
@@ -98,3 +98,5 @@ Markdown format:
 - [**CVPR 2023**] LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Bulat_LASP_Text-to-Text_Optimization_for_Language-Aware_Soft_Prompting_of_Vision__CVPR_2023_paper.pdf)
 - [**CVPR 2023**] Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf) [[code]](https://github.com/Forest-art/DFSP)
 - [**CVPR 2023**] Learning Federated Visual Prompt in Null Space for MRI Reconstruction [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Learning_Federated_Visual_Prompt_in_Null_Space_for_MRI_Reconstruction_CVPR_2023_paper.pdf) [[code]](https://github.com/chunmeifeng/FedPR)
+- [**arXiv 2023**] CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks [[pdf]](https://arxiv.org/pdf/2304.05653.pdf) [[code]](https://github.com/xmed-lab/CLIP_Surgery)
+- [**arXiv 2023**] Exploring Vision-Language Models for Imbalanced Learning [[pdf]](https://arxiv.org/pdf/2304.01457.pdf) [[code]](https://github.com/Imbalance-VLM/Imbalance-VLM)

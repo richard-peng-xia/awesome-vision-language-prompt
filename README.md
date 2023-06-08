@@ -1,8 +1,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![](https://img.shields.io/github/last-commit/Richard88888/awesome-vision-language-prompt?color=green) 
-![](https://img.shields.io/badge/PaperNumber-85-brightgreen)
+![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-vision-language-prompt?color=green) 
+![](https://img.shields.io/badge/PaperNumber-92-brightgreen)
 
 # awesome-vision-language-prompt
 A collection of resources on applications of prompt learning in vision-language models.
@@ -100,3 +100,10 @@ Markdown format:
 - [**CVPR 2023**] Learning Federated Visual Prompt in Null Space for MRI Reconstruction [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Learning_Federated_Visual_Prompt_in_Null_Space_for_MRI_Reconstruction_CVPR_2023_paper.pdf) [[code]](https://github.com/chunmeifeng/FedPR)
 - [**arXiv 2023**] CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks [[pdf]](https://arxiv.org/pdf/2304.05653.pdf) [[code]](https://github.com/xmed-lab/CLIP_Surgery)
 - [**arXiv 2023**] Exploring Vision-Language Models for Imbalanced Learning [[pdf]](https://arxiv.org/pdf/2304.01457.pdf) [[code]](https://github.com/Imbalance-VLM/Imbalance-VLM)
+- [**arXiv 2023**] TreePrompt: Learning to Compose Tree Prompts for Explainable Visual Grounding [[pdf]](https://arxiv.org/pdf/2305.11497)
+- [**arXiv 2023**] Fine-Grained Visual Prompting [[pdf]](https://arxiv.org/pdf/2306.04356)
+- [**arXiv 2023**] ProTeCt: Prompt Tuning for Hierarchical Consistency [[pdf]](https://arxiv.org/pdf/2306.02240)
+- [**arXiv 2023**] Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning [[pdf]](https://arxiv.org/pdf/2306.01669) [[code]](http://github.com/BatsResearch/menghini-enhanceCLIPwithCLIP-code)
+- [**arXiv 2023**] Consistency-guided Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2306.01195)
+- [**arXiv 2023**] LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning [[pdf]](https://arxiv.org/pdf/2306.01293) [[code]](https://github.com/AtsuMiyai/LoCoOp)
+- [**arXiv 2023**] Deeply Coupled Cross-Modal Prompt Learning [[pdf]](https://arxiv.org/pdf/2305.17903) [[code]](https://github.com/GingL/CMPA)

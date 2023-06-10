@@ -47,7 +47,7 @@ Markdown format:
 - [**arXiv 2022**] Learning to Decompose Visual Features with Latent Textual Prompts [[pdf]](https://arxiv.org/pdf/2210.04287)
 - [**arXiv 2022**] Visual Prompting for Adversarial Robustness [[pdf]](https://arxiv.org/pdf/2210.06284) 
 - [**arXiv 2022**] Unified Vision and Language Prompt Learning [[pdf]](https://arxiv.org/pdf/2210.07225) [[code]](https://github.com/yuhangzang/upt)
-- [**arXiv 2022**] CPL: Counterfactual Prompt Learning for Vision and Language Models [[pdf]](https://arxiv.org/pdf/2210.10362.pdf)
+- [**EMNLP 2022**] CPL: Counterfactual Prompt Learning for Vision and Language Models [[pdf]](https://arxiv.org/pdf/2210.10362.pdf)
 - [**arXiv 2022**] Prompting through Prototype: A Prototype-based Prompt Learning on Pretrained Vision-Language Models [[pdf]](https://arxiv.org/pdf/2210.10841.pdf)
 - [**arXiv 2022**] Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2211.02219.pdf) [[code]](https://github.com/machengcheng2016/Subspace-Prompt-Learning)
 - [**arXiv 2022**] Multitask Vision-Language Prompt Tuning [[pdf]](https://arxiv.org/pdf/2211.11720) [[code]](https://github.com/sIncerass/MVLPT)

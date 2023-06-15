@@ -2,7 +2,7 @@
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/github/last-commit/richard-peng-xia/awesome-vision-language-prompt?color=green) 
-![](https://img.shields.io/badge/PaperNumber-92-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-93-brightgreen)
 
 # awesome-vision-language-prompt
 A collection of resources on applications of prompt learning in vision-language models.
@@ -20,7 +20,6 @@ Markdown format:
 - [**CVPR 2022**] Image Segmentation Using Text and Image Prompts [[pdf]](https://arxiv.org/pdf/2112.10003) [[code]](https://github.com/timojl/clipseg)
 - [**IJCV 2022**] Learning to Prompt for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2109.01134) [[code]](https://github.com/kaiyangzhou/coop)
 - [**CVPR 2022**] Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557) [[code]](https://github.com/kaiyangzhou/coop)
-- [**arXiv 2022**] Neural Prompt Search [[pdf]](https://arxiv.org/pdf/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH)
 - [**CVPR 2022**] Prompt-RSVQA: Prompting Visual Context to a Language Model for Remote Sensing Visual Question Answering [[pdf]](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/papers/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.pdf) 
 - [**arXiv 2022**] Prompt-to-Prompt Image Editing with Cross Attention Control [[pdf]](https://arxiv.org/pdf/2208.01626)
 - [**arXiv 2022**] Prompt Tuning for Generative Multimodal Pretrained Models [[pdf]](https://arxiv.org/pdf/2208.02532) [[code]](https://github.com/OFA-Sys/OFA)

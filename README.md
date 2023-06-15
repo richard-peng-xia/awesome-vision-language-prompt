@@ -107,3 +107,5 @@ Markdown format:
 - [**arXiv 2023**] Consistency-guided Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2306.01195)
 - [**arXiv 2023**] LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning [[pdf]](https://arxiv.org/pdf/2306.01293) [[code]](https://github.com/AtsuMiyai/LoCoOp)
 - [**arXiv 2023**] Deeply Coupled Cross-Modal Prompt Learning [[pdf]](https://arxiv.org/pdf/2305.17903) [[code]](https://github.com/GingL/CMPA)
+- [**arXiv 2023**] How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models? [[pdf]](https://arxiv.org/pdf/2306.06048) [[code]](https://github.com/GingL/CMPA)
+- [**arXiv 2023**] Learning Domain-Aware Detection Head with Prompt Tuning [[pdf]](https://arxiv.org/pdf/2306.05718)
